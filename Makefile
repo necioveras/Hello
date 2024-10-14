@@ -4,7 +4,7 @@ a.out:
 clean:
 	rm a.out
 
-test: testa
+test: testa clean
 
 testa: a.out
 	bash ./testes/testa.sh
