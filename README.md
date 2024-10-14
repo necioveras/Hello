@@ -7,8 +7,7 @@ Neste exercício, você vai escrever um programa simples que lê o nome de uma p
 Por exemplo, se o nome fornecido for João, a saída deve ser:
 Hello, João.
 
-
-O código que você escrever será automaticamente avaliado aqui no GitHub assim que você fizer o envio.
+### O código que você escrever será automaticamente avaliado aqui no GitHub assim que você fizer o envio. ###
 ---
 
 ## Passo a Passo
@@ -28,19 +27,23 @@ Após aceitar o exercício, siga os seguintes passos para clonar o repositório 
 
 Isso criará uma cópia do repositório no seu computador.
 
-Agora é hora de programar! No repositório que você clonou:
+---
+## Programando 
+### Agora é hora de programar! No repositório que você clonou:
 
- * Edite o arquivo principal (hello.c)
- * Escreva o código para ler o nome e imprimir a mensagem no formato: Hello, <nome>.
+ 1. Edite o arquivo principal (hello.c)
+ 2. Escreva o código para ler o nome e imprimir a mensagem no formato: Hello, <nome>.
 
-Depois de escrever e testar o código, você precisará enviá-lo de volta para o GitHub. Para isso, siga estes passos:
+---
+### Depois de escrever e testar o código, você precisará enviá-lo de volta para o GitHub. Para isso, siga estes passos:
 
 1. Verifique quais arquivos foram modificados: git status
 2. Adicione os arquivos modificados para o commit: git add .
 3. Faça o commit das mudanças: git commit -m "Resolvi o exercício Hello, Nome"
 4. Envie as mudanças para o GitHub: git push
 
-Depois de enviar o código (fazer o push), o GitHub irá automaticamente verificar o seu código. Para ver os resultados:
+---
+### Depois de enviar o código (fazer o push), o GitHub irá automaticamente verificar o seu código. Para ver os resultados:
 1. Acesse o repositório no GitHub.
 2. Vá até a aba Actions.
 3. Lá, você verá os testes rodando. Se tudo estiver certo, você verá um ✔️ de sucesso.
